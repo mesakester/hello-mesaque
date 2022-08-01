@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  hello-world:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-01T19:16:57.896942099-03:00"
+    description: A chart for peteindockerhub/hello-rancher
+    digest: 9eb53e06ec76157f03f695705a2f0c447bbe8227e8424a03810bd19c18b9e157
+    icon: https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1024%2F1*roXDhjR8vWNpGjd3Gy6s4Q.png&imgrefurl=https%3A%2F%2Fpablorsk.medium.com%2Fkubernetes-helm-node-hello-world-c97d20437abd&tbnid=k7aPshviDxMJ9M&vet=12ahUKEwjTopvf0Kb5AhW8gpUCHSFaCSQQMygBegUIARC6AQ..i&docid=csi2mPJA7Ovb-M&w=1024&h=480&q=helm%20hello%20world%20imagem&ved=2ahUKEwjTopvf0Kb5AhW8gpUCHSFaCSQQMygBegUIARC6AQ
+    name: hello-world
+    type: application
+    urls:
+    - https://github.com/mesakester/hello-mesaque.git/hello-world-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-01T19:16:57.895144976-03:00"

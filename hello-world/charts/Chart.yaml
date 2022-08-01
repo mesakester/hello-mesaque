@@ -1,7 +1,7 @@
 apiVersion: v2
 name: hello-world
-description: A chart for peteindockerhub/hello-rancher
-icon: https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1024%2F1*roXDhjR8vWNpGjd3Gy6s4Q.png&imgrefurl=https%3A%2F%2Fpablorsk.medium.com%2Fkubernetes-helm-node-hello-world-c97d20437abd&tbnid=k7aPshviDxMJ9M&vet=12ahUKEwjTopvf0Kb5AhW8gpUCHSFaCSQQMygBegUIARC6AQ..i&docid=csi2mPJA7Ovb-M&w=1024&h=480&q=helm%20hello%20world%20imagem&ved=2ahUKEwjTopvf0Kb5AhW8gpUCHSFaCSQQMygBegUIARC6AQ
+description: A chart for hello-world test
+
 # A chart can be either an 'application' or a 'library' chart.
 #
 # Application charts are a collection of templates that can be packaged into versioned archives
@@ -22,3 +22,4 @@ version: 0.1.0
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 appVersion: "1.16.0"
+icon: https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1024%2F1*roXDhjR8vWNpGjd3Gy6s4Q.png&imgrefurl=https%3A%2F%2Fpablorsk.medium.com%2Fkubernetes-helm-node-hello-world-c97d20437abd&tbnid=k7aPshviDxMJ9M&vet=12ahUKEwjTopvf0Kb5AhW8gpUCHSFaCSQQMygBegUIARC6AQ..i&docid=csi2mPJA7Ovb-M&w=1024&h=480&q=helm%20hello%20world%20imagem&ved=2ahUKEwjTopvf0Kb5AhW8gpUCHSFaCSQQMygBegUIARC6AQ
